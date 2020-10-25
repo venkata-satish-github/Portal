@@ -1,3 +1,4 @@
-DevOps training 
+DevOps training
+AWS Training
 Python Training
 1234
