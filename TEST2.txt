@@ -1,5 +1,6 @@
 DevOps training
 AWS Training
 Python Training
-GIT Training
+GIT Training-Branching
+git reset
 1234
